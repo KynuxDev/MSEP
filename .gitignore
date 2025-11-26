@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+intel/screenshots/
+final_dossier.md
+*.log
+.DS_Store
+

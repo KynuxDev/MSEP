@@ -1,0 +1,23 @@
+google-generativeai
+streamlit
+numpy<2.0.0
+pandas
+google-api-python-client
+python-dotenv
+pillow
+plotly
+streamlit-agraph
+tinydb
+rich
+questionary
+beautifulsoup4
+requests
+duckduckgo-search>=6.0.0
+pypdf
+openpyxl
+# Black Ops Modules
+playwright
+stem
+deepface
+opencv-python
+tf-keras
